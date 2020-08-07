@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-30T01:44:24 IST" name="GetTest" finished-at="2020-07-30T01:44:27 IST" duration-ms="2602">
+    <groups>
+    </groups>
+    <test started-at="2020-07-30T01:44:24 IST" name="Command line test" finished-at="2020-07-30T01:44:27 IST" duration-ms="2602">
+      <class name="GetTest">
+        <test-method signature="Test_Get()[pri:1, instance:GetTest@43bd930a]" started-at="2020-07-30T01:44:24 IST" name="Test_Get" finished-at="2020-07-30T01:44:27 IST" duration-ms="2576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Get -->
+      </class> <!-- GetTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- GetTest -->
+</testng-results>
